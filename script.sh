@@ -9,4 +9,4 @@ git config user.name "qinen"
 git add .
 git commit -m "TeamCity Auto Update"
 git remote -v
-git push -u origin master
+git push -u -v origin master
